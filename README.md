@@ -1,0 +1,14 @@
+# T89571AA3-user 11 RKQ1.200928.002 00WW_3_240 release-keys
+- manufacturer: hmd global
+- platform: msm8937
+- codename: PAN_sprout
+- flavor: T89571AA3-user
+- release: 11
+- id: RKQ1.200928.002
+- incremental: 00WW_3_240
+- tags: release-keys
+- fingerprint: Nokia/Panther_00WW/PAN_sprout:11/RKQ1.200928.002/00WW_3_240:user/release-keys
+- is_ab: true
+- brand: Nokia
+- branch: T89571AA3-user-11-RKQ1.200928.002-00WW_3_240-release-keys
+- repo: nokia_pan_sprout_dump
